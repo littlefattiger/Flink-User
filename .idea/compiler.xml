@@ -6,8 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="HotItemsAnalysis" />
+        <module name="Hotpages" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="HotItemsAnalysis" target="1.8" />
+      <module name="NetworkFlowAnalysis" target="1.8" />
+      <module name="NetworkFlowAnalysis.main" target="1.8" />
+      <module name="NetworkFlowAnalysis.test" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
