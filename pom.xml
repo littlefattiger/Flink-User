@@ -11,6 +11,7 @@
     <modules>
         <module>HotItemsAnalysis</module>
         <module>Hotpages</module>
+        <module>MarketAnalysis</module>
 
     </modules>
 

@@ -5,23 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b3f914f-79b4-4da4-baa4-3900e8dcac90" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hotpages/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hotpages/src/main/java/com/atguigu/networkflow_analysis/HotPages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hotpages/src/main/java/com/atguigu/networkflow_analysis/PageView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hotpages/src/main/java/com/atguigu/networkflow_analysis/UniqueVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hotpages/src/main/java/com/atguigu/networkflow_analysis/UvWithBloom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hotpages/src/main/java/com/atguigu/networkflow_analysis/beans/ApacheLogEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hotpages/src/main/java/com/atguigu/networkflow_analysis/beans/PageViewCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hotpages/src/main/java/com/atguigu/networkflow_analysis/beans/UserBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hotpages/src/main/resources/UserBehavior.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/MarketAnalysis/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MarketAnalysis/src/main/java/com/atguigu/market_analysis/AppMarketingByChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MarketAnalysis/src/main/java/com/atguigu/market_analysis/beans/ChannelPromitionCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MarketAnalysis/src/main/java/com/atguigu/market_analysis/beans/MarketingUserBehavior.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
